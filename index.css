@@ -43,6 +43,9 @@ p{
     margin: 20px 0px 0px 30px;
     font-size: 22px;
 }
+#men u{
+    width: 100%;
+}
 #menu ul{
     display: inline-flex;
     margin: 0px;
